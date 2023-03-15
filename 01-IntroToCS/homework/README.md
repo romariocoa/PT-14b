@@ -70,3 +70,11 @@ DecimalABinario(8); // debe retornar '1000'
 ## 🧠 Recuerda que...
 
 Las ciencias de la computación han avanzado a pasos agigantados, pero aún las operaciones más complejas se reducen, dentro de la computadora, a ceros y unos. Es decir: el sistema binario.
+
+</br >
+
+---
+
+## **✅ FEEDBACK**
+
+### Usa este [**formulario**](https://docs.google.com/forms/d/e/1FAIpQLSe1MybH_Y-xcp1RP0jKPLndLdJYg8cwyHkSb9MwSrEjoxyzWg/viewform) para reportar tus observaciones de mejora o errores. Tu feedback es muy importante para seguir mejorando el modelo educativo.

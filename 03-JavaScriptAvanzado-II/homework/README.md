@@ -81,3 +81,11 @@ En este punto puedes comenzar a codear, verás instrucciones dentro del archivo 
 
 -  **[Closures](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)**
 -  **[Método bind](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)**
+
+</br >
+
+---
+
+## **✅ FEEDBACK**
+
+### Usa este [**formulario**](https://docs.google.com/forms/d/e/1FAIpQLSe1MybH_Y-xcp1RP0jKPLndLdJYg8cwyHkSb9MwSrEjoxyzWg/viewform) para reportar tus observaciones de mejora o errores. Tu feedback es muy importante para seguir mejorando el modelo educativo.

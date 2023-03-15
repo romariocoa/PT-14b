@@ -78,3 +78,11 @@ Es tiempo de crear la función constructora / clase, y métodos de las siguiente
    -  **delete** Borra un elemento
    -  **search** Busca un elemento
    -  **isBalanced**, devuelve true o false para saber si el árbol se encuentra balanceado.
+
+</br >
+
+---
+
+## **✅ FEEDBACK**
+
+### Usa este [**formulario**](https://docs.google.com/forms/d/e/1FAIpQLSe1MybH_Y-xcp1RP0jKPLndLdJYg8cwyHkSb9MwSrEjoxyzWg/viewform) para reportar tus observaciones de mejora o errores. Tu feedback es muy importante para seguir mejorando el modelo educativo.

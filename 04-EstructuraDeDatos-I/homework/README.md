@@ -89,3 +89,11 @@ En este punto puedes comenzar a codear, verás instrucciones dentro del archivo 
 ## 📢 Extra Credit
 
 Como ejercicio adicional y completamente opcional, al terminar de resolver este problema puedes intentar redefinir las funciones de los ejercicios 1 y 2, de manera que logren los mismos resultados pero de manera iterativa.
+
+</br >
+
+---
+
+## **✅ FEEDBACK**
+
+### Usa este [**formulario**](https://docs.google.com/forms/d/e/1FAIpQLSe1MybH_Y-xcp1RP0jKPLndLdJYg8cwyHkSb9MwSrEjoxyzWg/viewform) para reportar tus observaciones de mejora o errores. Tu feedback es muy importante para seguir mejorando el modelo educativo.

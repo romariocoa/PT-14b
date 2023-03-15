@@ -65,3 +65,11 @@ En este punto puedes comenzar a codear, verás instrucciones dentro del archivo 
 **BFS y DFS**
 
 -  Implementar un algoritmo para recorrer un árbol de las dos formas. Usar el algoritmo implementado para poder buscar un elemento dentro del árbol.
+
+</br >
+
+---
+
+## **✅ FEEDBACK**
+
+### Usa este [**formulario**](https://docs.google.com/forms/d/e/1FAIpQLSe1MybH_Y-xcp1RP0jKPLndLdJYg8cwyHkSb9MwSrEjoxyzWg/viewform) para reportar tus observaciones de mejora o errores. Tu feedback es muy importante para seguir mejorando el modelo educativo.
